@@ -1,0 +1,12 @@
+dat/
+out/
+log/
+env/
+# src/oauth2client/
+
+*.csv
+*.pkl
+*.dat
+*.pyc
+# *.png
+*.ipynb
